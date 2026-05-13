@@ -9,11 +9,12 @@ Follow this order:
 1. Vision
 2. Vision read/reconnect check
 3. Intentional imbalance
-4. One to three goals
-5. Tactics
-6. Weekly plan
-7. Scorecard
-8. Model Work Week
+4. Productive urgency check
+5. One to three goals
+6. Tactics
+7. Weekly plan
+8. Scorecard
+9. Model Work Week
 
 Do not ask only blank WH questions. Offer structured options and let me correct them.
 
@@ -22,6 +23,8 @@ Do not create more than three goals.
 Do not start from a brain dump, handoff, inbox, or backlog. Those can be used after vision sets direction, but they must not choose the goals.
 
 Do not attach vision links after the plan is already written. A goal must be derived from vision, not rationalized afterward.
+
+Use urgency carefully. Treat "12 weeks is one execution year" as a focus tool, not a reason to add more work. Productive urgency narrows the plan; panic urgency bloats it.
 
 Keep traceability intact:
 Vision theme -> Goal -> Tactic -> Weekly Plan item.
@@ -68,6 +71,7 @@ Before finalizing, run the AI review checklist:
 - no vision links attached after the fact
 - every tactic names the goal it moves
 - every weekly item names its source tactic
+- urgency reduced scope instead of adding scope
 - no more than three goals
 - goals measurable
 - maintenance and parked explicit

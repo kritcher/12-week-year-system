@@ -15,6 +15,7 @@ repo นี้เป็นคู่มือไม่เป็นทางกา
 7. [AI Facilitator Guide](docs/06-ai-facilitator-guide.md)
 8. [Anti-Patterns](docs/08-anti-patterns.md) — โดยเฉพาะกับดัก Brain Dump First
 9. [Traceability](docs/09-traceability.md) — บังคับ chain `Vision -> Goal -> Tactic -> Weekly`
+10. [Productive Urgency](docs/10-productive-urgency.md) — ใช้ความเร่งให้เลือกแคบ ไม่ใช่ panic
 
 ## สรุปแก่นที่ห้ามพลาด
 
@@ -56,6 +57,7 @@ Do cardio 2x/week for at least 20 minutes.
 - AI ใช้ Strategic Block ทั้งก้อนเป็นคาบเรียนของ goal เดียว
 - AI เริ่มจาก brain dump / handoff แล้วค่อยแปะ vision link ย้อนหลัง
 - Vision, 12W Plan, tactics, Weekly Plan ไม่ align กัน
+- เอา urgency ไปยัดงานเพิ่ม แทนที่จะใช้ตัด scope
 - weekly plan กลายเป็น to-do list มั่ว ไม่ได้ดึงจาก 12W Plan
 - intentional imbalance กลายเป็น "เลือก 3 ด้านชีวิต" ทั้งที่จริงคือการเลือกน้ำหนัก
 

@@ -5,6 +5,7 @@
 - [ ] I have read the vision immediately before planning.
 - [ ] I can name the future state I feel connected to.
 - [ ] I am not starting from a brain dump, handoff, inbox, or backlog.
+- [ ] My urgency is making the plan narrower, not bigger.
 - [ ] I know which area is heavy this cycle.
 - [ ] I know which areas are maintenance.
 - [ ] I know which areas are parked.

@@ -10,6 +10,7 @@ Use this checklist before accepting an AI-generated 12 Week Year plan.
 - [ ] AI created more than three goals.
 - [ ] AI treated intentional imbalance as exactly three life areas.
 - [ ] AI listed every life area as active.
+- [ ] AI used urgency language to justify too many goals or tactics.
 - [ ] AI wrote vague tactics like `study`, `exercise`, `organize`, or `research`.
 - [ ] AI wrote milestones as tactics.
 - [ ] AI put a course inside the whole Strategic Block.
@@ -54,4 +55,11 @@ For each weekly item, ask:
 Which 12W tactic did this come from?
 Which 12W goal does that tactic move?
 Which vision theme created that goal?
+```
+
+For urgency, ask:
+
+```text
+Did urgency reduce scope, or did it add scope?
+Is this productive urgency or panic urgency?
 ```

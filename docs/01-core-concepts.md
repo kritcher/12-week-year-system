@@ -81,6 +81,22 @@ Do cardio two times per week for at least 20 minutes.
 
 It does not ask whether you feel good, whether the market rewarded you this week, or whether life was messy.
 
+## Productive Urgency
+
+**Practical interpretation**: Treating 12 weeks as one execution year can create useful urgency.
+
+The point is not to pretend that three calendar years literally become 36 weeks. The point is to stop acting as if the current 12 weeks are disposable.
+
+Good urgency narrows the plan.
+
+Bad urgency overloads the plan.
+
+Use this test:
+
+```text
+Did urgency make me choose fewer things and protect execution, or did it make me add more?
+```
+
 ## Model Work Week
 
 **Book principle**: You need protected time for high-value work, reactive work, and recovery.

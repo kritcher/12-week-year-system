@@ -131,6 +131,24 @@ Vision theme -> Goal -> Tactic -> Weekly Plan item
 
 Do not add weekly items that cannot trace back to a tactic in the 12W Plan.
 
+## 3-Year Vision And 12 Week Cycles
+
+The 3-Year Vision is not divided mechanically into twelve equal 12-week pieces.
+
+Use it as a target state. Then ask:
+
+```text
+If this 12 weeks were one execution year, what movement would matter most?
+```
+
+This can create breakthrough urgency. It is possible for a focused set of cycles to move a 3-Year Vision faster than expected.
+
+But treat that as upside, not as a promise.
+
+If the "12 weeks = one year" mindset makes the plan narrower and sharper, use it.
+
+If it makes the plan bigger and frantic, return to intentional imbalance.
+
 ## Step 5: Define Maintenance Explicitly
 
 Maintenance is not failure. It is how you protect the cycle from pretending everything is a priority.

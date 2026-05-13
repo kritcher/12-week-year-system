@@ -56,6 +56,16 @@ Weekly item -> 12W tactic -> 12W goal -> vision theme
 
 If this feels too strict, that is the point. The 12 week frame works because it forces tradeoffs.
 
+Use the 12 week frame to create productive urgency:
+
+```text
+Urgent enough to choose. Calm enough to execute.
+```
+
+Do not use urgency as permission to overload the plan.
+
 See [Anti-Patterns](08-anti-patterns.md) before asking an AI to write the plan.
 
 Use [Traceability](09-traceability.md) when reviewing the plan.
+
+Use [Productive Urgency](10-productive-urgency.md) when the cycle needs more emotional pressure without turning into panic.
