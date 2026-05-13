@@ -9,7 +9,7 @@
 Bad:
 
 ```text
-I need to clean my room, study trading, and finish old admin tasks.
+I need to exercise, get referrals, and organize my files.
 ```
 
 Better:
@@ -31,9 +31,9 @@ You can touch many life areas, but you should not have many heavy fronts.
 Good pattern:
 
 ```text
-Heavy focus: Business / trading system
-Support focus: environment that allows deep work
-Maintenance: health, family, admin, social life
+Heavy focus: New business / referral engine
+Support focus: simple personal organization
+Maintenance: health, family, routine admin, social life
 Parked: optional system building, nice-to-have projects
 ```
 
@@ -68,9 +68,8 @@ Verb + object + frequency/due week + completion rule
 Examples:
 
 ```text
-Study the alpha course for 60 minutes, three times per week.
-Run one backtest variation per week and record the result in the journal.
 Ask for two referrals per workday.
+Send five personal notes per week.
 Do cardio two times per week for at least 20 minutes.
 ```
 

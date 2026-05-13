@@ -45,19 +45,19 @@ This is not planning. It is not reflection. It is not "light work".
 
 This is not one of the classic three performance blocks, but it is a useful implementation recipe.
 
-Use a Learning Block when a goal needs study or skill acquisition.
+Use a Learning Block or Practice Block when a goal needs study, rehearsal, or skill acquisition.
 
 Example:
 
 ```text
-Learning Block: Tuesday, Wednesday, Thursday 14:00-15:30
-Tactic: Study the alpha course for 60-90 minutes x 3/week.
+Practice Block: Monday through Thursday 08:30-08:45
+Tactic: Role play the referral talk 15 minutes/day for four weeks.
 ```
 
 Do not write:
 
 ```text
-Study alpha course 3 hours/week in Strategic Block.
+Practice referrals 3 hours/week in Strategic Block.
 ```
 
 That turns the Strategic Block into a private course block and removes its review function.

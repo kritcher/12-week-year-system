@@ -20,8 +20,8 @@ Thai overview: [README.th.md](README.th.md).
 Common AI mistakes this repo is designed to block:
 
 - Turning a 12 week plan into a generic to-do list.
-- Writing concepts as tactics, such as "exercise" or "study alpha".
-- Writing milestones as tactics, such as "complete the course" or "finish the backtest".
+- Writing concepts as tactics, such as "exercise" or "get referrals".
+- Writing milestones as tactics, such as "launch the campaign" or "finish organizing".
 - Filling the plan with more than three goals.
 - Treating intentional imbalance as "choose three life areas" instead of choosing where energy goes.
 - Using the Strategic Block as a private course block for one goal.

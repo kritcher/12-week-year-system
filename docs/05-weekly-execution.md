@@ -21,11 +21,11 @@ Better:
 
 ```text
 Goal 1
-- Study the alpha course 60 minutes on Mon/Wed/Fri.
-- Run one backtest variation and write the result.
+- Ask for referrals two times per workday.
+- Send five personal notes this week.
 
 Goal 2
-- Clear one workspace zone for 60 minutes Mon-Sat.
+- Do cardio twice this week for at least 20 minutes.
 
 Maintenance
 - Pay urgent bill by Friday.

@@ -1,12 +1,6 @@
 # Publishing
 
-Local repo path:
-
-```bash
-/Users/aiserver/Code/github.com/kritcher/12-week-year-system
-```
-
-The intended GitHub repo:
+GitHub repo:
 
 ```text
 kritcher/12-week-year-system
@@ -24,7 +18,6 @@ The local machine must have a valid `gh` login first.
 
 ```bash
 gh auth login -h github.com
-cd /Users/aiserver/Code/github.com/kritcher/12-week-year-system
 gh repo create kritcher/12-week-year-system --public --source=. --remote=origin --push
 ```
 
@@ -33,7 +26,6 @@ Use `--private` instead of `--public` if the repo should be reviewed before shar
 ## If The Repo Already Exists
 
 ```bash
-cd /Users/aiserver/Code/github.com/kritcher/12-week-year-system
 git remote add origin git@github.com:kritcher/12-week-year-system.git
 git push -u origin main
 ```

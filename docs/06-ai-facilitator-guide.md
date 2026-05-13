@@ -50,29 +50,29 @@ Before finalizing a plan, answer these directly:
 Concept to tactic:
 
 ```text
-Before: Learn trading.
-After: Study one trading lesson for 60 minutes on Mon/Wed/Fri and write one insight after each session.
+Before: Get referrals.
+After: Ask for referrals two times per workday and record the result in the contact log.
 ```
 
 Milestone to tactic:
 
 ```text
-Before: Complete backtesting.
-After: Run one backtest variation every Friday and record setup, data range, result, and next adjustment.
+Before: Launch the referral campaign.
+After: Role play the referral talk 15 minutes/day for four weeks, then ask for referrals two times per workday.
 ```
 
 Theme to goal:
 
 ```text
 Before: Organize life.
-After: Reduce the selected backlog from 30 open loops to 6 or fewer by the end of the cycle.
+After: Create one usable weekly rhythm for meals, laundry, bills, and personal files by the end of the cycle.
 ```
 
 Too many fronts:
 
 ```text
-Before: Improve trading, home, health, family, finances, learning, and community.
-After: Heavy focus on trading. Home supports deep work. Health and family get maintenance rules. Everything else is parked.
+Before: Improve business, home, health, family, finances, learning, and community.
+After: Heavy focus on new business. Health and personal organization get maintenance rules. Everything else is parked.
 ```
 
 ## Stop Rules

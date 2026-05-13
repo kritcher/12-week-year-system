@@ -33,9 +33,9 @@ A tactic should usually have:
 - a clear completion rule
 - a weekly scoring path
 
-Bad: `Complete the alpha course`.
+Bad: `Launch the referral campaign`.
 
-Better: `Study the alpha course for 60 minutes, three times per week, and write one trade idea after each session`.
+Better: `Ask for referrals two times per workday and record the result in the contact log`.
 
 ## Review Stance
 

@@ -32,17 +32,17 @@ Vision -> Intentional Imbalance -> 1-3 Goals -> Tactics -> Weekly Plan -> Scorec
 
 จำนวน goal ควรมี 1-3 ข้อ ไม่เกินนี้
 
-**Concept** = แนวคิดกว้าง เช่น `ออกกำลังกาย`, `หา alpha`, `จัดบ้าน`
+**Concept** = แนวคิดกว้าง เช่น `ออกกำลังกาย`, `หา referral`, `จัดบ้าน`
 
-**Milestone** = checkpoint หรือ deliverable เช่น `เรียนคอร์สจบ`, `backtest เสร็จ`
+**Milestone** = checkpoint หรือ deliverable เช่น `campaign พร้อม`, `ห้องจัดเสร็จ`
 
 **Tactic** = action ที่ commit ทำจริง มี frequency หรือ due week และ score ได้
 
 ตัวอย่าง:
 
 ```text
-Study alpha course 60 minutes x 3/week.
-Run one backtest variation/week and write the result.
+Ask for referrals 2x/day.
+Send 5 personal notes/week.
 Do cardio 2x/week for at least 20 minutes.
 ```
 

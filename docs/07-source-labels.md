@@ -51,7 +51,7 @@ An illustration, not a rule.
 Example:
 
 ```text
-Trading system, home organization, and admin backlog are examples of goals/fronts. Replace them with your own.
+Health, new business, referrals, real estate, team sales, and home organization are sample-style domains. Replace them with your own.
 ```
 
 ## Rule For AI Assistants

@@ -58,8 +58,8 @@ You can have one heavy intent and still lightly touch other life sides.
 Example:
 
 ```text
-Heavy intent: Build the trading system.
-Support intent: Make the work environment usable.
+Heavy intent: Build the referral engine.
+Support intent: Keep the personal organization system usable.
 Maintenance: sleep, basic movement, family check-in, urgent admin.
 Parked: new side projects, deep system redesign, optional learning.
 ```
@@ -71,8 +71,8 @@ Goal count is constrained. Intentional imbalance is not counted the same way.
 Bad:
 
 ```text
-Goal 1: Trading
-Goal 2: Home
+Goal 1: Referrals
+Goal 2: Organization
 Goal 3: Health
 Goal 4: Family
 Goal 5: Admin
@@ -81,15 +81,15 @@ Goal 5: Admin
 Better:
 
 ```text
-Goal 1: Validate one trading system with positive expectancy in the 12 week cycle.
-Goal 2: Make the workspace and digital inbox usable enough for daily deep work.
-Goal 3: Close or move 80 percent of the selected admin backlog.
+Goal 1: Close 10 new qualified client meetings in the 12 week cycle.
+Goal 2: Create one usable weekly rhythm for meals, laundry, bills, and personal files.
+Goal 3: Complete 24 cardio sessions in the 12 week cycle.
 ```
 
 Better still, for beginners:
 
 ```text
-Goal 1: Validate one trading system with positive expectancy in the 12 week cycle.
+Goal 1: Close 10 new qualified client meetings in the 12 week cycle.
 ```
 
 Then keep everything else as maintenance.

@@ -1,31 +1,33 @@
 # One Cycle Example
 
-This is an example, not a rule.
+This is a sample-style example, not a personal cycle.
+
+It uses common 12WY sample domains: new business, health, and personal organization. It is paraphrased as a pattern example rather than copied from any private plan.
 
 ## Cycle Charter
 
 Heavy focus:
 
 ```text
-Build one validated trading system.
+Create new business through a referral rhythm.
 ```
 
 Support focus:
 
 ```text
-Make the workspace and digital inbox usable enough for deep work.
+Maintain enough health and organization to execute consistently.
 ```
 
 Maintenance:
 
 ```text
-Basic health, family check-in, urgent admin only.
+Family, routine admin, and non-urgent projects stay at minimum standard.
 ```
 
 Parked:
 
 ```text
-New side projects, deep tool rebuilds, optional courses, non-urgent archive cleanup.
+New side projects, optional courses, major tool redesigns, and non-urgent archive cleanup.
 ```
 
 ## Goals
@@ -33,42 +35,47 @@ New side projects, deep tool rebuilds, optional courses, non-urgent archive clea
 Goal 1:
 
 ```text
-Validate one trading strategy with positive expectancy by the end of the cycle.
+Close 10 qualified client meetings by the end of the cycle.
 ```
 
 Goal 2:
 
 ```text
-Make the workspace and digital inbox usable enough that the main tools or files can be found within 30 seconds.
+Complete 24 cardio sessions by the end of the cycle.
 ```
 
 Goal 3:
 
 ```text
-Close or move 80 percent of the selected 30-item admin backlog.
+Create a basic weekly home rhythm for meals, laundry, and bills by the end of the cycle.
 ```
 
 ## Tactics
 
 Goal 1 tactics:
 
-- Study one selected trading lesson for 60 minutes, three times per week.
-- Write one strategy insight per week in the trading journal.
-- Run one backtest variation per week during weeks 5-12.
+- Script the referral talk in Week 1.
+- Role play the referral talk 15 minutes/day during Weeks 1-4.
+- Ask for referrals 2x/day during Weeks 3-12.
+- Send 5 personal notes/week.
+- Schedule one prospecting block three times/week.
 
 Goal 2 tactics:
 
-- Clear one physical zone for 60 minutes, six days per week.
-- Remove or donate at least one bag of items per week.
-- Process one digital inbox batch every Friday.
+- Do cardio 2x/week for at least 20 minutes.
+- Weigh in every Monday morning.
+- Prepare workout clothes the night before each cardio day.
 
 Goal 3 tactics:
 
-- Close or move one selected admin item every Tuesday and Friday.
-- Review the backlog every Monday during weekly planning.
+- Plan meals for the week every Saturday.
+- Choose one laundry day/week and do laundry on that day.
+- Process bills and personal files for 30 minutes every Friday.
 
 ## Notes
 
 This example has three goals because it shows the upper bound.
 
 If you are new, start with one or two.
+
+The important pattern is that most tactics are recurring and scoreable. One-time setup items are allowed when they unlock recurring execution.
