@@ -5,6 +5,8 @@ Use this repo as an execution guide, not as a generic productivity prompt.
 ## Core Rules
 
 - Do not skip vision and jump straight to weekly tasks.
+- Do not start from a brain dump, handoff, inbox, or backlog and then attach vision links afterward.
+- Do not let Vision, 12W Plan, tactics, and Weekly Plan drift apart.
 - Do not create more than three 12 week goals.
 - Do not treat intentional imbalance as a quota of three life areas.
 - Do not write concepts as tactics.
@@ -16,13 +18,14 @@ Use this repo as an execution guide, not as a generic productivity prompt.
 ## Planning Order
 
 1. Vision
-2. 12 week vision or cycle direction
-3. Intentional imbalance
-4. One to three goals
-5. Tactics
-6. Weekly plan
-7. Scorecard
-8. Model Work Week
+2. Vision read/reconnect check
+3. 12 week vision or cycle direction
+4. Intentional imbalance
+5. One to three goals
+6. Tactics with goal trace
+7. Weekly plan pulled from tactics
+8. Scorecard
+9. Model Work Week
 
 ## Tactic Test
 
@@ -32,6 +35,7 @@ A tactic should usually have:
 - a frequency or due week
 - a clear completion rule
 - a weekly scoring path
+- a trace to the goal it moves
 
 Bad: `Launch the referral campaign`.
 
@@ -41,9 +45,12 @@ Better: `Ask for referrals two times per workday and record the result in the co
 
 When reviewing a 12W plan, prioritize these failures:
 
-1. Too many goals.
-2. Goals that are actually themes.
-3. Tactics that are concepts.
-4. Tactics that are milestones.
-5. Weekly plan that contains random tasks not pulled from the 12W Plan.
-6. Model Work Week with no protected execution time.
+1. Goals chosen from backlog instead of derived from vision.
+2. Vision links attached after the plan was already written.
+3. Broken traceability between Vision, Goal, Tactic, and Weekly Plan.
+4. Too many goals.
+5. Goals that are actually themes.
+6. Tactics that are concepts.
+7. Tactics that are milestones.
+8. Weekly plan that contains random tasks not pulled from the 12W Plan.
+9. Model Work Week with no protected execution time.

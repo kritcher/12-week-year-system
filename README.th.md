@@ -13,6 +13,8 @@ repo นี้เป็นคู่มือไม่เป็นทางกา
 5. [Model Work Week](docs/04-model-work-week.md)
 6. [Weekly Execution](docs/05-weekly-execution.md)
 7. [AI Facilitator Guide](docs/06-ai-facilitator-guide.md)
+8. [Anti-Patterns](docs/08-anti-patterns.md) — โดยเฉพาะกับดัก Brain Dump First
+9. [Traceability](docs/09-traceability.md) — บังคับ chain `Vision -> Goal -> Tactic -> Weekly`
 
 ## สรุปแก่นที่ห้ามพลาด
 
@@ -52,6 +54,8 @@ Do cardio 2x/week for at least 20 minutes.
 - AI เอา concept มาเป็น tactic
 - AI เอา milestone มาเป็น tactic
 - AI ใช้ Strategic Block ทั้งก้อนเป็นคาบเรียนของ goal เดียว
+- AI เริ่มจาก brain dump / handoff แล้วค่อยแปะ vision link ย้อนหลัง
+- Vision, 12W Plan, tactics, Weekly Plan ไม่ align กัน
 - weekly plan กลายเป็น to-do list มั่ว ไม่ได้ดึงจาก 12W Plan
 - intentional imbalance กลายเป็น "เลือก 3 ด้านชีวิต" ทั้งที่จริงคือการเลือกน้ำหนัก
 

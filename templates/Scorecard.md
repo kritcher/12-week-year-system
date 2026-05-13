@@ -20,9 +20,15 @@ completed tactics / due tactics x 100
 
 ## Slipped Tactics
 
-| Tactic | Reason |
-| --- | --- |
-| | |
+| Source Tactic | Goal | Reason |
+| --- | --- | --- |
+| | | |
+
+## Completed Tactics
+
+| Source Tactic | Goal | Evidence |
+| --- | --- | --- |
+| | | |
 
 ## Breakdown Diagnosis
 
@@ -41,3 +47,8 @@ Notes:
 ```text
 ...
 ```
+
+## Traceability Check
+
+- [ ] Every scored item has a source tactic ID.
+- [ ] Maintenance or buffer work was not counted as 12WY execution unless it traced to the 12W Plan.

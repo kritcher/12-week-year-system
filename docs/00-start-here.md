@@ -10,6 +10,10 @@ Vision -> intentional imbalance -> 1-3 goals -> tactics -> weekly plan -> scorec
 
 If you skip a layer, the next layer gets weak.
 
+If the layers do not trace to each other, the weekly plan becomes a disguised inbox.
+
+The most dangerous shortcut is starting from a brain dump, choosing goals from the backlog, and attaching vision links afterward. That can look complete while missing the emotional connection that makes the plan worth executing.
+
 ## The Minimum Working System
 
 You need seven artifacts:
@@ -32,14 +36,26 @@ A goal is a measurable 12 week outcome. Keep it to one to three goals.
 
 A tactic is a committed action that can be executed and scored. It is not a vague concept and not a milestone pretending to be work.
 
+Every weekly tactic should trace upward:
+
+```text
+Weekly item -> 12W tactic -> 12W goal -> vision theme
+```
+
 ## Recommended First Pass
 
 1. Draft the vision.
-2. Choose one heavy focus for the cycle.
-3. Add maintenance rules for the other life areas.
-4. Write one to three goals.
-5. Convert milestones into recurring or frequency-based tactics.
-6. Put the tactics into a Model Work Week.
-7. Score weekly.
+2. Read it immediately before planning.
+3. Confirm the future state still creates emotional pull.
+4. Choose one heavy focus for the cycle.
+5. Add maintenance rules for the other life areas.
+6. Write one to three goals from the vision, not from backlog pressure.
+7. Convert milestones into recurring or frequency-based tactics.
+8. Put the tactics into a Model Work Week.
+9. Score weekly.
 
 If this feels too strict, that is the point. The 12 week frame works because it forces tradeoffs.
+
+See [Anti-Patterns](08-anti-patterns.md) before asking an AI to write the plan.
+
+Use [Traceability](09-traceability.md) when reviewing the plan.

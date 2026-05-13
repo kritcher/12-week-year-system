@@ -20,15 +20,27 @@ Why this gets weight now:
 ...
 ```
 
+Vision source:
+
+```text
+What vision sentence/theme did this come from?
+```
+
+Emotional connection:
+
+```text
+Why does this matter enough to choose discomfort for 12 weeks?
+```
+
 ## Goals
 
 Keep this to one to three goals.
 
-| # | Goal | Measure | Vision Link |
-| --- | --- | --- | --- |
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| # | Goal | Measure | Vision source | Why now |
+| --- | --- | --- | --- | --- |
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
 
 ## Maintenance
 

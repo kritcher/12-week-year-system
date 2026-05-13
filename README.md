@@ -14,6 +14,8 @@ Thai overview: [README.th.md](README.th.md).
 4. Check every action with [Goals, Tactics, and Milestones](docs/03-goals-tactics-milestones.md).
 5. Put the work on a week with [Model Work Week](docs/04-model-work-week.md).
 6. Run the cycle with [Weekly Execution](docs/05-weekly-execution.md).
+7. Review the [Anti-Patterns](docs/08-anti-patterns.md), especially the Brain Dump First trap.
+8. Keep the layers aligned with [Traceability](docs/09-traceability.md).
 
 ## What This Repo Prevents
 
@@ -24,6 +26,8 @@ Common AI mistakes this repo is designed to block:
 - Writing milestones as tactics, such as "launch the campaign" or "finish organizing".
 - Filling the plan with more than three goals.
 - Treating intentional imbalance as "choose three life areas" instead of choosing where energy goes.
+- Starting from a brain dump or handoff, then attaching vision links afterward.
+- Letting Vision, 12W Plan, tactics, and Weekly Plan drift away from each other.
 - Using the Strategic Block as a private course block for one goal.
 - Asking blank-state WH questions forever instead of helping the human recognize good options.
 
@@ -39,6 +43,8 @@ docs/
   05-weekly-execution.md
   06-ai-facilitator-guide.md
   07-source-labels.md
+  08-anti-patterns.md
+  09-traceability.md
   implementation/
     obsidian-recommended-setup.md
     paper-google-notion-setup.md

@@ -43,6 +43,20 @@ Write:
 I have a body that supports the life I want to live, with enough energy to travel, work deeply, and recover well.
 ```
 
+Before writing goals, read the vision again. Do not rely on memory.
+
+Ask:
+
+```text
+What part of this vision should move in the next 12 weeks?
+What future state am I emotionally connected to right now?
+Which possible goals would move that future state most?
+```
+
+Do not start from a brain dump or task backlog.
+
+Backlogs are useful later. They can reveal constraints, tactics, or maintenance items. They should not choose the goals.
+
 ## Step 3: Choose Intentional Imbalance
 
 Intentional imbalance answers:
@@ -67,6 +81,8 @@ Parked: new side projects, deep system redesign, optional learning.
 ## Step 4: Write One To Three Goals
 
 Goal count is constrained. Intentional imbalance is not counted the same way.
+
+Each goal should be derived from vision. A goal with a vision link added after the fact is weaker than a goal that came from reading the vision first.
 
 Bad:
 
@@ -93,6 +109,27 @@ Goal 1: Close 10 new qualified client meetings in the 12 week cycle.
 ```
 
 Then keep everything else as maintenance.
+
+## Derivation Check
+
+For each goal, write:
+
+```text
+Vision sentence or theme:
+12 week movement:
+Why this goal deserves weight:
+What gets parked because of this:
+```
+
+If this chain is unclear, the goal is not ready.
+
+After the goals are chosen, keep the chain intact:
+
+```text
+Vision theme -> Goal -> Tactic -> Weekly Plan item
+```
+
+Do not add weekly items that cannot trace back to a tactic in the 12W Plan.
 
 ## Step 5: Define Maintenance Explicitly
 
